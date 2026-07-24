@@ -48,7 +48,7 @@ y apretá ENTER en cada paso:
    Set-ExecutionPolicy -Scope Process Bypass -Force
 
 2) Navegar a la carpeta (ejemplo si la dejaste en el Escritorio):
-   cd "$HOME\Desktop\GamingOptimizer"
+   cd "$HOME\Desktop\b1t3-Gaming-Optimizer-main"
 
 3) Abrir el menú interactivo:
    .\GamingOptimizer.ps1

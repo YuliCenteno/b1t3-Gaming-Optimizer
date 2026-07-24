@@ -33,7 +33,7 @@ Esta herramienta automatiza la configuración del sistema operativo para reducir
 ### 1. Obtener el Proyecto
 Cloná el repositorio o descargá el proyecto comprimido en formato ZIP y extraelo en tu equipo:
 
-git clone https://github.com/Yulicenteno/GamingOptimizer.git
+git clone https://github.com/YuliCenteno/b1t3-Gaming-Optimizer.git
 
 ### 2. Abrir la Consola como Administrador
 1. Presioná la tecla **Windows**.
@@ -47,7 +47,7 @@ Copiá y ejecutá los siguientes comandos en la consola para habilitar la ejecuc
 Set-ExecutionPolicy -Scope Process Bypass -Force
 
 # Navegar hasta la carpeta del proyecto (ejemplo: en el Escritorio)
-cd "$HOME\Desktop\GamingOptimizer"
+cd "$HOME\Desktop\b1t3-Gaming-Optimizer-main"
 
 # Iniciar la suite
 .\GamingOptimizer.ps1
